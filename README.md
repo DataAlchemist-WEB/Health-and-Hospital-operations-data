@@ -1,7 +1,7 @@
 # Health-and-Hospital-operations-data
 This interactive visualization platform integrates critical data points: patient demographics, appointment statuses, treatment cost analysis, and resource allocation efficiency per doctor and branch, facilitating data-driven decision-making in healthcare management.
 
-project objeecetive
+Project objective
 
  The primary objective of this project is to monitor and analyze the operational efficiency and patient metrics within a hospital or clinic system. The goal is to track appointment statuses, patient demographics, doctor performance, treatment costs, and payment methods to optimize resource allocation, reduce no-shows, and improve financial management.
 
